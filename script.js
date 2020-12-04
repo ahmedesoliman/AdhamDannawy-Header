@@ -129,3 +129,5 @@ particlesJS("particles-js", {
 });
 
 $(document).ready(() => $(".collection-card").flip({ trigger: "hover" }));
+
+
